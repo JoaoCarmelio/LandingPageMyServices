@@ -1,4 +1,4 @@
-// @ts-expect-error TypeScript has no declaration for the CSS side-effect import.
+
 import "./globals.css";
 
 
