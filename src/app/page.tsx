@@ -1,8 +1,8 @@
-import Hero from "../components/Hero";
+import  HeroCarrossel from "../components/HeroCarrossel";
 
 export default function home() {
     return (
-       <Hero/>
+       <HeroCarrossel/>
     );
     
 }
